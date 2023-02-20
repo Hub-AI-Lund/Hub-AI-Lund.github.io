@@ -1,4 +1,4 @@
-baseURL = "hubai.se"
+baseURL = "https://hubai.se"
 languageCode = "en-us"
 title = 'Hub AI'
 defaultContentLanguage = "en"
