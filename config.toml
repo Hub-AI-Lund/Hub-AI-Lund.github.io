@@ -89,37 +89,37 @@ fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
 headshot = '<img src="team/emil.jpg"/ class="headshot">'
 title = "President"
 name = "Emil Damirov"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+body = "Through my master's studies in finance and extracurricular activities, I got exposed to coding and quickly found my way to AI. Though the projects I worked on are mainly within empirical finance, I developed an immense interest in potential applications of AI within other fields"
 
 [[params.three.feature]]
 headshot = '<img src="team/lola.jpg"/ class="headshot">'
 name = "Charlotte Schöllkopf"
 title = "Vice President"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+body = "I'm doing my Master's in Psychology and Statistics and Data Science, and my focus is on research and the interface between Neuroscience and AI, e.g., my Bachelor's thesis was in the field of Computer Vision, assessing similarities between the human ventral visual stream and Neural Network architecture"
 
 [[params.three.feature]]
 headshot = '<img src="team/diego.jpg"/ class="headshot">'
 name = "Diego Figueroa"
 title = "Head of Education"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+body = "Currently doing my Master's thesis in GANs, I’m in my last semester in the Master’s in Machine Learning, Systems and Control. I’m interested in image-to-image, text-to-text and text-to-image DL models"
 
 [[params.three.feature]]
-headshot = '<img src="team/gustaf.jpg"/ class="headshot">'
-name = "Gustaf Morenius"
-title = "Head of Events"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
-
-[[params.three.feature]]
-headshot = '<img src="team/gustaf.jpg"/ class="headshot">'
+headshot = '<img src="team/adrian.jpg"/ class="headshot">'
 name = "Adrian Murphy"
 title = "Head of External Partnerships"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+body = "As a soon-to-be computer scientist, I have a solid background in the technical aspects of AI. Through my membership in Hub AI, I have learned that there is much more to the subject than chasing performance in a Jupyter Notebook. P.S., I am the proud designer of the website you're using right now"
 
 [[params.three.feature]]
 headshot = '<img src="team/michelle.jpg"/ class="headshot">'
 name = "Michelle Konopka"
 title = "Head of Marketing & Communications"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+body = "I am studying Social Scientific Data Analysis, where research meets state-of-the-art methodology and big data. My main points of interest are AI applications for security and the interplay between society and technology"
+
+[[params.three.feature]]
+headshot = '<img src="team/anonymous.png"/ class="headshot">'
+name = "You?"
+title = "Head of Your Passion"
+body = "We are currently looking for a Head of Treasury, Head of Events and a second Head of Marketing & Communications. Interested? Apply to join our committee!"
 
 [params.cta]
 enable = true
