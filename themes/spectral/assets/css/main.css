@@ -2729,15 +2729,15 @@ input, select, textarea {
 		}
 
 		.spotlight:nth-child(2) {
-			background-color: #0F2132;
+			background-color: #0f1e2c;
 		}
 
 		.spotlight:nth-child(3) {
-			background-color: #0a1621;
+			background-color: #142C43;
 		}
 
 		.spotlight:nth-child(4) {
-			background-color: rgba(0, 0, 0, 0.3);
+			background-color: #0f1e2c;
 		}
 
 		.spotlight:nth-child(5) {

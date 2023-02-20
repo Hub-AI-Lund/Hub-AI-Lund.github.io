@@ -71,6 +71,11 @@ img = "share.jpg"
 title = 'Sharing Experiences'
 body = 'By sharing our personal experiences and expertise on AI as members of Hub AI we all become a little smarter.'
 
+[[params.two.section]]
+img = "share.jpg"
+title = 'Sharing Experiences'
+body = 'By sharing our personal experiences and expertise on AI as members of Hub AI we all become a little smarter.'
+
 [params.three]
 enable = true
 title = 'The Committee'
