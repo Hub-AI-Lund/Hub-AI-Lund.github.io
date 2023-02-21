@@ -33,7 +33,7 @@ title = "Blogposts"
 
 [params.one]
 enable = true
-title = 'Our Goals'
+title = 'About Us'
 body = '''
 Hub AI is a student organisation that organises various types of events related to the applications of AI for Lund University students. Our events range from guest lectures and panel discussions to Python workshops and social events. In addition, since Hub AI hosts interdisciplinary events, we attract students with different backgrounds ranging from engineering, biotechnology and computer science to economics, political science and psychology
 '''
@@ -57,31 +57,30 @@ label = "Dolor"
 enable = true
 
 [[params.two.section]]
-img = "network.jpg"
-title = 'Opportunities to Network'
-body = 'We offer an opportunity to build a network of like-minded individuals from all disciplines and ranks: students, academics and industry representatives.'
-
-[[params.two.section]]
 img = "educate.jpg"
-title = 'Educating on AI Topics'
-body = 'We aim to educate our members on current research and issues surrounding Artificial Intelligence and to master basic coding skills together.'
+title = 'Guest Lectures'
+body = 'One of the most common types of events that we host are guest lectures or colloquiums. Such events revolve around one or several professionals who are invited to talk about a particular area related to AI such as Brain-Inspired Computing, AI in Diagnosing Mental Illness, Smart Cities, Thesis Writing or Entrepreneurship in Tech'
 
 [[params.two.section]]
 img = "share.jpg"
-title = 'Sharing Experiences'
-body = 'By sharing our personal experiences and expertise on AI as members of Hub AI we all become a little smarter.'
+title = 'Panel Discussions'
+body = 'Some topics make it more beneficial to have a discussion between several people to capture a wider perspective, hence we also host panel events. Our panel discussions welcome professionals, scholars or students to discuss topics such as Diversity in AI, AI and Sustainability or Life Science meets AI'
+
+[[params.two.section]]
+img = "workshop.jpg"
+title = 'Python Workshops'
+body = 'Each semester we host a series of Python workshops. There are six workshops in total with the first three being designed for beginners, while the remaining ones cover more complex concepts building on top of material covered in the previous workshops'
 
 [[params.two.section]]
 img = "share.jpg"
-title = 'Sharing Experiences'
-body = 'By sharing our personal experiences and expertise on AI as members of Hub AI we all become a little smarter.'
+title = 'Social Events'
+body = 'As an organisation, we aim to create a community for like-minded people, which is why we also host less formal social events with greater flexibility in terms of exact format. Such events range from a board game night and pizza mingle to going hiking or bowling'
 
 [params.three]
 enable = true
 title = 'The Committee'
 body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+The Committee is responsible for...
 '''
 
 # NOTE! File size really matters for the website's responsiveness. Decrease the size and compress images.
@@ -107,7 +106,7 @@ body = "Currently doing my Master's thesis in GANs, I’m in my last semester in
 headshot = '<img src="team/adrian.jpg"/ class="headshot">'
 name = "Adrian Murphy"
 title = "Head of External Partnerships"
-body = "As a soon-to-be computer scientist, I have a solid background in the technical aspects of AI. Through my membership in Hub AI, I have learned that there is much more to the subject than chasing performance in a Jupyter Notebook. P.S., I am the proud designer of the website you're using right now"
+body = "As a soon-to-be computer scientist, I have a solid background in the technical aspects of AI. Through my membership in Hub AI, I have learned that there is much more to the subject than chasing performance in a Jupyter Notebook"
 
 [[params.three.feature]]
 headshot = '<img src="team/michelle.jpg"/ class="headshot">'
