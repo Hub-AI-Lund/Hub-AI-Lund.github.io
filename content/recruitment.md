@@ -1,10 +1,8 @@
 +++
 +++
 
-<img class="recruitment-image" src="/recruitment.png" width="80%" />
-
-## Get active in the Hub!
-<span></span>
+<img class="recruitment-image" src="/recruitment.png" />
+<h2>Get active in the Hub!</h2>
 <ul>
     <li>
         We offer free membership for all students at Lund University. Register <a href="https://forms.gle/sffmPqSSTXEsckDC7">here</a>.
