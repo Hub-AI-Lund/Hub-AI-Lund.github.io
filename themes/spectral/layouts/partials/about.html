@@ -1,0 +1,15 @@
+{{ $md := .Site.Params.body_is_markdown | default false }}
+
+{{ with .Site.Params.about }}
+{{ if .enable }}
+	<section id="about" class="wrapper style1 special">
+		<div class="inner">
+			<header class="major">
+        <h2>{{ .title | safeHTML}}</h2>
+
+        {{ partial "body_text.html" (dict "context" . "md" $md) }}
+			</header>
+		</div>
+	</section>
+{{ end }}
+{{ end }}

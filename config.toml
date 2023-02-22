@@ -31,27 +31,12 @@ title = "Blogposts"
     category = "categories"
     series = "series"
 
-[params.one]
+[params.about]
 enable = true
 title = 'About Us'
 body = '''
-Hub AI is a student organisation that organises various types of events related to the applications of AI for Lund University students. Our events range from guest lectures and panel discussions to Python workshops and social events. In addition, since Hub AI hosts interdisciplinary events, we attract students with different backgrounds ranging from engineering, biotechnology and computer science to economics, political science and psychology
+Hub AI is a student organization that organizes various types of events related to the applications of AI for Lund University students. Our events range from guest lectures and panel discussions to Python workshops and social events. In addition, since Hub AI hosts interdisciplinary events, we attract students with different backgrounds ranging from engineering, biotechnology and computer science to economics, political science and psychology
 '''
-
-[[params.one.icon]]
-icon = "fa-book"
-style = "1"
-label = "Lorem"
-
-[[params.one.icon]]
-icon = "fa-handshake-o"
-style = "2"
-label = "Ipsum"
-
-[[params.one.icon]]
-icon = "fa-users"
-style = "3"
-label = "Dolor"
 
 [params.two]
 enable = true
@@ -72,7 +57,7 @@ title = 'Python Workshops'
 body = 'Each semester we host a series of Python workshops. There are six workshops in total with the first three being designed for beginners, while the remaining ones cover more complex concepts building on top of material covered in the previous workshops'
 
 [[params.two.section]]
-img = "share.jpg"
+img = "social.png"
 title = 'Social Events'
 body = 'As an organisation, we aim to create a community for like-minded people, which is why we also host less formal social events with greater flexibility in terms of exact format. Such events range from a board game night and pizza mingle to going hiking or bowling'
 
@@ -80,7 +65,7 @@ body = 'As an organisation, we aim to create a community for like-minded people,
 enable = true
 title = 'The Committee'
 body = '''
-The Committee is responsible for...
+The committee members are the main drivers shaping what type of events we host and are responsible for the day-to-day activities of the organization
 '''
 
 # NOTE! File size really matters for the website's responsiveness. Decrease the size and compress images.
@@ -88,7 +73,7 @@ The Committee is responsible for...
 headshot = '<img src="team/emil.jpg"/ class="headshot">'
 title = "President"
 name = "Emil Damirov"
-body = "Through my master's studies in finance and extracurricular activities, I got exposed to coding and quickly found my way to AI. Though the projects I worked on are mainly within empirical finance, I developed an immense interest in potential applications of AI within other fields"
+body = "Through my Master's studies in finance and extracurricular activities, I got exposed to coding and quickly found my way to AI. Though the projects I worked on are mainly within empirical finance, I developed an immense interest in potential applications of AI within other fields"
 
 [[params.three.feature]]
 headshot = '<img src="team/lola.jpg"/ class="headshot">'
@@ -117,8 +102,35 @@ body = "I am studying Social Scientific Data Analysis, where research meets stat
 [[params.three.feature]]
 headshot = '<img src="team/anonymous.png"/ class="headshot">'
 name = "You?"
-title = "Head of Your Passion"
+title = "Our Next Committee Member"
 body = "We are currently looking for a Head of Treasury, Head of Events and a second Head of Marketing & Communications. Interested? Apply to join our committee!"
+
+[params.one]
+enable = true
+title = 'Our Goals'
+body = '''
+<ol class="ol-center">
+    <li class="li-space">Establishing a forum to discuss Artificial Intelligence for students at Lund University</li>
+    <li class="li-space">Educating students on current research within AI, through theory and practice by hosting events such as guest lectures, panel debates, and Python workshops</li>
+    <li class="li-space">Forging links between students and creating a comfortable environment to meet like-minded people, to network, and socialize</li>
+    <li class="li-space">Connecting students with potential professional opportunities within the industry such as research, internships, and graduate positions by hosting events where students can meet representatives from different institutions</li>
+</ol>
+'''
+
+[[params.one.icon]]
+icon = "fa-book"
+style = "1"
+label = "Lorem"
+
+[[params.one.icon]]
+icon = "fa-handshake-o"
+style = "2"
+label = "Ipsum"
+
+[[params.one.icon]]
+icon = "fa-users"
+style = "3"
+label = "Dolor"
 
 [params.cta]
 enable = true
