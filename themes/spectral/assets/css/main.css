@@ -78,7 +78,7 @@ section, summary, time, mark, audio, video {
 	list-style: lower-greek;
 	display: table;
 	margin: 0;
-	padding-left: 0;
+	padding-left: 3;
 }
 
 .li-space {
