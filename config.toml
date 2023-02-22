@@ -28,7 +28,7 @@ title = "Blogposts"
 
 [[params.menu.main]]
 url = '/howtobecomeactive/'
-title = "How to become active"
+title = "Recruitment"
 
 [taxonomies]
     tag = "tags"
