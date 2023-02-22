@@ -26,6 +26,10 @@ title = "Events"
 url = '/blogposts/'
 title = "Blogposts"
 
+[[params.menu.main]]
+url = '/howtobecomeactive/'
+title = "How to become active"
+
 [taxonomies]
     tag = "tags"
     category = "categories"
