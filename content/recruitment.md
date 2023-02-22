@@ -1,7 +1,7 @@
 +++
 +++
 
-<img class="recruitment-image" src="/recruitment.png" width="100%" />
+<img class="recruitment-image" src="/recruitment.png" width="80%" />
 
 ## Get active in the Hub!
 
