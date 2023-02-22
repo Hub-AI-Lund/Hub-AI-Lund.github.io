@@ -52,7 +52,7 @@ title = 'Panel Discussions'
 body = 'Some topics make it more beneficial to have a discussion between several people to capture a wider perspective, hence we also host panel events. Our panel discussions welcome professionals, scholars or students to discuss topics such as Diversity in AI, AI and Sustainability or Life Science meets AI'
 
 [[params.two.section]]
-img = "workshop.jpg"
+img = "workshop.png"
 title = 'Python Workshops'
 body = 'Each semester we host a series of Python workshops. There are six workshops in total with the first three being designed for beginners, while the remaining ones cover more complex concepts building on top of material covered in the previous workshops'
 
