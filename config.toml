@@ -6,6 +6,9 @@ paginate = "7"
 theme = "spectral"
 enableEmoji=true
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
 fancyTitle = '&nbsp<img width="250px" src="/complete_white_logo.png"/>&nbsp'
 copyright = "Hub AI"
@@ -23,8 +26,8 @@ url = '/events/'
 title = "Events"
 
 [[params.menu.main]]
-url = '/blogposts/'
-title = "Blogposts"
+url = '/recruitment/'
+title = "Join Us"
 
 [taxonomies]
     tag = "tags"
@@ -102,7 +105,7 @@ body = "I am studying Social Scientific Data Analysis, where research meets stat
 [[params.three.feature]]
 headshot = '<img src="team/anonymous.png"/ class="headshot">'
 name = "You?"
-title = "Our Next Committee Member"
+title = "Head of Something Else"
 body = "We are currently looking for a Head of Treasury, Head of Events and a second Head of Marketing & Communications. Interested? Apply to join our committee!"
 
 [params.one]
@@ -143,8 +146,8 @@ text = "Events"
 special = true
 
 [[params.cta.link]]
-href = "/blogposts/"
-text = "Blogposts"
+href = "/recruitment/"
+text = "Join Us"
 special = false
 
 #[params.contact]
@@ -163,4 +166,7 @@ instagram = "hubailund"
 linkedin = "company/hubai/"
 email = "hello@hubai.se"
 dribble = ""
-footerImage = '<img height="128" width="128" src="/af.png"/>'
+footerImage = '''
+    <img height="128" width="128" src="/af.png"/>
+    <img height="128" width="128" src="/AILund.png"/>
+'''

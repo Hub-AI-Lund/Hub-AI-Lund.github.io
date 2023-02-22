@@ -1,6 +1,7 @@
 +++
-title = "Events"
 +++
+
+<p></p>
 
 ## Panel Discussion: AI, Security & Surveillance
 ##### :round_pushpin: **Ole Römers väg 6, 223 63 Lund**
