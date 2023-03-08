@@ -5,7 +5,7 @@
 
 ## ChatGPT in Academia
 ##### :round_pushpin: **TBD**
-##### :date: **March 23rd 2023 17:30**
+##### :date: **March 23 2023 17:30**
 ##### :link: [Facebook event](https://fb.me/e/3vOe3qHt2)
 
 ChatGPT took the world by storm, popularising AI and allowing people to get creative about its usage opportunities. The academic context faces many changes with this new technology, from easily accessible knowledge to cheating scandals. We want to dig deeper into this topic by bringing together researchers and experts from different fields to talk about GPT-3 and NLP - what it can and cannot do, some of the ethical implications, and how this technology might progress in the future, all in the context of academia.
