@@ -4,7 +4,7 @@
 <p></p>
 
 ## ChatGPT in Academia
-##### :round_pushpin: **TBD**
+##### :round_pushpin: **MA 4: Sölvegatan 20, 223 62 Lund**
 ##### :date: **March 23 2023 17:30**
 ##### :link: [Facebook event](https://fb.me/e/3vOe3qHt2)
 

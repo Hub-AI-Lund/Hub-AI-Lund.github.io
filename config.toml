@@ -106,7 +106,7 @@ body = "I am studying Social Scientific Data Analysis, where research meets stat
 headshot = '<img src="team/anonymous.png"/ class="headshot">'
 name = "You?"
 title = "Head of Something Else"
-body = "We are currently looking for a Head of Treasury, Head of Events and a second Head of Marketing & Communications. Interested? Apply to join our committee!"
+body = "The Hub AI team is growing! Do you want to be part of this exciting journey bridging the gap between artificial intelligence, research, and industry? Apply to join our committee!"
 
 [params.one]
 enable = true
