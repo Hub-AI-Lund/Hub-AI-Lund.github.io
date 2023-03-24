@@ -8,14 +8,18 @@ Present the upcoming events below
 <hr style="border-bottom: double"> 
 
 ## Classification of Cells Using Artificial Neural Networks
-##### :round_pushpin: **TBD**
+##### :round_pushpin: **Kemicentrum KC:A, Naturvetarvägen 14, 221 00 Lund**
 ##### :date: **March 29 2023 16:00**
 ##### :link: [Facebook event](https://fb.me/e/7j9uJdDaQ)
 
 The guest lecture on Classification of Cells using Neural Networks is a fascinating and informative talk that explores the latest advances in the field of cell classification through the use of neural network technology. This lecture is hosted by Hub AI in collaboration with AI Lund, NanoLund, and CellaVision. Upon completion of the lecture, we will proceed to the mingling session during which you have a chance to talk to the organisations’ representatives, all while you enjoy some pizza and drinks!
 
 
----
+<!---
+Present the past events below
+-->
+<h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Past Events</h2>
+<hr style="border-bottom: double"> 
 
 ## ChatGPT in Academia
 ##### :round_pushpin: **MA 4: Sölvegatan 20, 223 62 Lund**
@@ -24,11 +28,8 @@ The guest lecture on Classification of Cells using Neural Networks is a fascinat
 
 ChatGPT took the world by storm, popularising AI and allowing people to get creative about its usage opportunities. The academic context faces many changes with this new technology, from easily accessible knowledge to cheating scandals. We want to dig deeper into this topic by bringing together researchers and experts from different fields to talk about GPT-3 and NLP - what it can and cannot do, some of the ethical implications, and how this technology might progress in the future, all in the context of academia.
 
-<!---
-Present the past events below
--->
-<h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Past Events</h2>
-<hr style="border-bottom: double"> 
+
+---
 
 ## Basic Python Workshop Series - for Beginners
 ##### :round_pushpin: **Ole Römers väg 3, 223 63 Lund**
