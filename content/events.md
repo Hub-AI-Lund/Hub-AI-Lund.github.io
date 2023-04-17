@@ -27,6 +27,9 @@ Present the past events below
 
 The guest lecture on Classification of Cells using Neural Networks is a fascinating and informative talk that explores the latest advances in the field of cell classification through the use of neural network technology. This lecture is hosted by Hub AI in collaboration with AI Lund, NanoLund, and CellaVision. Upon completion of the lecture, we will proceed to the mingling session during which you have a chance to talk to the organisations’ representatives, all while you enjoy some pizza and drinks!
 
+
+---
+
 ## ChatGPT in Academia
 ##### :round_pushpin: **MA 4: Sölvegatan 20, 223 62 Lund**
 ##### :date: **March 23 2023 17:30**
