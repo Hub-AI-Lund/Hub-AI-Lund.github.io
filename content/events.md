@@ -7,18 +7,20 @@ Present the upcoming events below
 <h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Upcoming Events</h2>
 <hr style="border-bottom: double"> 
 
-## Python Workshop Series - Intermediate
-##### :round_pushpin: **E:1406 Ole Römers väg 3, 223 63 Lund**
-##### :date: **April 26 & May 3 17:30**
-##### :link: [Facebook event](https://fb.me/e/2uD46CA3o)
-
-Have you ever considered learning how to code and harness AI's power? Well, this is your chance to achieve that through our workshop series on Python - the most versatile and hottest programming language of 2023! In this intermediate level series of workshops, we are going to cover Supervised and Unsupervised Learning as well as Machine Learning Pipeline. Before the workshops, you will be provided with markdown files explaining the theory with numerous examples and supplementary video materials. During the workshops, we will cover this theory with examples and turn to exercises where you will be able to try writing your own code! Two of our committee members who study Machine Learning will co-host these workshops and assist you if you have any questions.
+Nothing right now! Check back soon!
 
 <!---
 Present the past events below
 -->
 <h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Past Events</h2>
 <hr style="border-bottom: double"> 
+
+## Python Workshop Series - Intermediate
+##### :round_pushpin: **E:1406 Ole Römers väg 3, 223 63 Lund**
+##### :date: **April 26 & May 3 2023 17:30**
+##### :link: [Facebook event](https://fb.me/e/2uD46CA3o)
+
+Have you ever considered learning how to code and harness AI's power? Well, this is your chance to achieve that through our workshop series on Python - the most versatile and hottest programming language of 2023! In this intermediate level series of workshops, we are going to cover Supervised and Unsupervised Learning as well as the Machine Learning Pipeline. Before the workshops, you will be provided with markdown files explaining the theory with numerous examples and supplementary video materials. During the workshops, we will cover this theory with examples and turn to exercises where you will be able to try writing your own code! Two of our committee members who study Machine Learning will co-host these workshops and assist you if you have any questions.
 
 ## Classification of Cells Using Artificial Neural Networks
 ##### :round_pushpin: **Kemicentrum KC:A, Naturvetarvägen 14, 221 00 Lund**
