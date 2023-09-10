@@ -7,7 +7,12 @@ Present the upcoming events below
 <h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Upcoming Events</h2>
 <hr style="border-bottom: double"> 
 
-Nothing right now! Check back soon!
+## Large Language Models and the Art of Using ChatGPT in Academia
+##### :round_pushpin: **TBD**
+##### :date: **September 21 2023 17:30**
+##### :link: [Facebook event](https://fb.me/e/7bBeGOkA8)
+
+Did you miss our event on ChatGPT last semester? Here's your chance to learn more! ChatGPT took the world by storm, popularising AI and allowing people to get creative about its usage opportunities. While some are talking about a revolution in AI, and Silicon Valley companies are racing about who will build the best Generative Pre-trained Transformer (hence GPT), this tool has already raised serious concerns and even bans in schools. The academic context faces many changes with this new technology, from easily accessible knowledge to cheating scandals - this tool sparked vivid discussions of applications in academia. We want to dig deeper into this topic by bringing together researchers and experts from different fields to talk about GPT-3 and NLP - how the technology is designed, what it can and cannot do, and how this technology might progress in the future all in the context of academia.
 
 <!---
 Present the past events below
@@ -21,6 +26,9 @@ Present the past events below
 ##### :link: [Facebook event](https://fb.me/e/2uD46CA3o)
 
 Have you ever considered learning how to code and harness AI's power? Well, this is your chance to achieve that through our workshop series on Python - the most versatile and hottest programming language of 2023! In this intermediate level series of workshops, we are going to cover Supervised and Unsupervised Learning as well as the Machine Learning Pipeline. Before the workshops, you will be provided with markdown files explaining the theory with numerous examples and supplementary video materials. During the workshops, we will cover this theory with examples and turn to exercises where you will be able to try writing your own code! Two of our committee members who study Machine Learning will co-host these workshops and assist you if you have any questions.
+
+
+---
 
 ## Classification of Cells Using Artificial Neural Networks
 ##### :round_pushpin: **Kemicentrum KC:A, Naturvetarvägen 14, 221 00 Lund**
