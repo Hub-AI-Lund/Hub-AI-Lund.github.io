@@ -8,11 +8,11 @@ Present the upcoming events below
 <hr style="border-bottom: double"> 
 
 ## Large Language Models and the Art of Using ChatGPT in Academia
-##### :round_pushpin: **TBD**
+##### :round_pushpin: **MA 3: Sölvegatan 20, 223 62 Lund**
 ##### :date: **September 21 2023 17:30**
 ##### :link: [Facebook event](https://fb.me/e/7bBeGOkA8)
 
-Did you miss our event on ChatGPT last semester? Here's your chance to learn more! ChatGPT took the world by storm, popularising AI and allowing people to get creative about its usage opportunities. While some are talking about a revolution in AI, and Silicon Valley companies are racing about who will build the best Generative Pre-trained Transformer (hence GPT), this tool has already raised serious concerns and even bans in schools. The academic context faces many changes with this new technology, from easily accessible knowledge to cheating scandals - this tool sparked vivid discussions of applications in academia. We want to dig deeper into this topic by bringing together researchers and experts from different fields to talk about GPT-3 and NLP - how the technology is designed, what it can and cannot do, and how this technology might progress in the future all in the context of academia.
+Did you miss our event on ChatGPT last semester? Here's your chance to learn more! ChatGPT took the world by storm, popularising AI and allowing people to get creative about its usage opportunities. While some are talking about a revolution in AI, and Silicon Valley companies are racing about who will build the best Generative Pre-trained Transformer (hence GPT), this tool has already raised serious concerns and even bans in schools. The academic context faces many changes with this new technology, from easily accessible knowledge to cheating scandals - this tool sparked vivid discussions of applications in academia. We want to dig deeper into this topic by bringing together researchers and experts from different fields to talk about GPT-3 and NLP - how the technology is designed, what it can and cannot do, and how this technology might progress in the future - all in the context of academia.
 
 <!---
 Present the past events below
