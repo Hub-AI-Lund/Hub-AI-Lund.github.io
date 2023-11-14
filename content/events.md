@@ -7,12 +7,12 @@ Present the upcoming events below
 <h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Upcoming Events</h2>
 <hr style="border-bottom: double"> 
 
-## Annual General Meeting
-##### :round_pushpin: **Digital**
-##### :date: **October 24 2023 18:30**
-##### :link: [Facebook event](https://fb.me/e/38cMV1EXR)
+## Workshop: Generative AI with Accenture
+##### :round_pushpin: **EC1:135: Ole Römers väg 6, 223 63 Lund**
+##### :date: **November 21 2023 17:15**
+##### :link: [Facebook event](https://fb.me/e/3hz7vBt7Y)
 
-Hub AI is hosting the formal Annual General Meeting which includes the election of the new president and vice president, the election of the new statute and changes in the board. 
+We are thrilled to announce an exciting collaboration that will shed light on how generative AI is used in consulting. Hub AI has invited Accenture, a global leader in consulting, for an enlightening workshop that promises to unravel the immense potential of AI in today's tech-driven era.
 
 <!---
 Present the past events below
@@ -20,12 +20,35 @@ Present the past events below
 <h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Past Events</h2>
 <hr style="border-bottom: double"> 
 
+## Python Workshops - For Beginners!
+##### :round_pushpin: **EC2:163: Ole Römers väg 6, 223 63 Lund**
+##### :date: **November 2 & November 7 2023 17:15**
+##### :link: [Facebook event](https://fb.me/e/4K13kRTpp)
+
+Have you ever considered learning the art of how to talk to computers? In this basic series of workshops, you'll get first-hand experience in coding, and the best part is no prior knowledge is needed. Before the workshops, you will be provided with Google Colab notebooks explaining the theory with numerous examples. During the workshops, we will turn to exercises where you will be able to try writing your own code and, ultimately, build your very own chatbot!
+
+
+---
+
+## Annual General Meeting
+##### :round_pushpin: **Digital**
+##### :date: **October 24 2023 18:30**
+##### :link: [Facebook event](https://fb.me/e/38cMV1EXR)
+
+Hub AI is hosting the formal Annual General Meeting which includes the election of the new president and vice president, the election of the new statute and changes in the board. 
+
+
+---
+
 ## Large Language Models and the Art of Using ChatGPT in Academia
 ##### :round_pushpin: **MA 3: Sölvegatan 20, 223 62 Lund**
 ##### :date: **September 21 2023 17:30**
 ##### :link: [Facebook event](https://fb.me/e/7bBeGOkA8)
 
 Did you miss our event on ChatGPT last semester? Here's your chance to learn more! ChatGPT took the world by storm, popularising AI and allowing people to get creative about its usage opportunities. While some are talking about a revolution in AI, and Silicon Valley companies are racing about who will build the best Generative Pre-trained Transformer (hence GPT), this tool has already raised serious concerns and even bans in schools. The academic context faces many changes with this new technology, from easily accessible knowledge to cheating scandals - this tool sparked vivid discussions of applications in academia. We want to dig deeper into this topic by bringing together researchers and experts from different fields to talk about GPT-3 and NLP - how the technology is designed, what it can and cannot do, and how this technology might progress in the future - all in the context of academia.
+
+
+---
 
 ## Python Workshop Series - Intermediate
 ##### :round_pushpin: **E:1406 Ole Römers väg 3, 223 63 Lund**
