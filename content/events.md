@@ -7,18 +7,23 @@ Present the upcoming events below
 <h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Upcoming Events</h2>
 <hr style="border-bottom: double"> 
 
-## Workshop: Generative AI with Accenture
-##### :round_pushpin: **EC1:135: Ole Römers väg 6, 223 63 Lund**
-##### :date: **November 21 2023 17:15**
-##### :link: [Facebook event](https://fb.me/e/3hz7vBt7Y)
-
-We are thrilled to announce an exciting collaboration that will shed light on how generative AI is used in consulting. Hub AI has invited Accenture, a global leader in consulting, for an enlightening workshop that promises to unravel the immense potential of AI in today's tech-driven era.
+Nothing right now! Check back soon...
 
 <!---
 Present the past events below
 -->
 <h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Past Events</h2>
 <hr style="border-bottom: double"> 
+
+## Workshop: Generative AI with Accenture
+##### :round_pushpin: **EC1:135: Ole Römers väg 6, 223 63 Lund**
+##### :date: **November 21 2023 17:15**
+##### :link: [Facebook event](https://fb.me/e/3hz7vBt7Y)
+
+We are thrilled to announce an exciting collaboration that will shed light on how generative AI is used in the corporate world. Hub AI has invited Accenture, a global leader in consulting, for an enlightening workshop that promises to unravel the immense potential of AI in today's tech-driven era.
+
+
+---
 
 ## Python Workshops - For Beginners!
 ##### :round_pushpin: **EC2:163: Ole Römers väg 6, 223 63 Lund**
