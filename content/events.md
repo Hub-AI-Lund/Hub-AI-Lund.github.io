@@ -7,7 +7,12 @@ Present the upcoming events below
 <h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Upcoming Events</h2>
 <hr style="border-bottom: double"> 
 
-Nothing right now! Check back soon...
+## Workshop with Lunicore
+##### :round_pushpin: **EC1:135: Tycho Brahes väg 1, 223 63 Lund**
+##### :date: **February 1 2024 18:15**
+##### :link: [Facebook event](https://fb.me/e/1G0BAMu6K)
+
+Do you want to learn how to lead an AI project? Interested in becoming a student consultant? Måns Wirfelt, manager at Lunicore, will tell you more about real-world projects: the models used, the business aspects, and how they help their clients with AI solutions.
 
 <!---
 Present the past events below
@@ -16,7 +21,7 @@ Present the past events below
 <hr style="border-bottom: double"> 
 
 ## Workshop: Generative AI with Accenture
-##### :round_pushpin: **EC1:135: Ole Römers väg 6, 223 63 Lund**
+##### :round_pushpin: **EC1:135: Tycho Brahes väg 1, 223 63 Lund**
 ##### :date: **November 21 2023 17:15**
 ##### :link: [Facebook event](https://fb.me/e/3hz7vBt7Y)
 
