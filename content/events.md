@@ -7,6 +7,14 @@ Present the upcoming events below
 <h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Upcoming Events</h2>
 <hr style="border-bottom: double"> 
 
+Nothing right now... Come back soon!
+
+<!---
+Present the past events below
+-->
+<h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Past Events</h2>
+<hr style="border-bottom: double"> 
+
 ## Workshop with Lunicore
 ##### :round_pushpin: **EC1:135: Tycho Brahes väg 1, 223 63 Lund**
 ##### :date: **February 1 2024 18:15**
@@ -14,11 +22,8 @@ Present the upcoming events below
 
 Do you want to learn how to lead an AI project? Interested in becoming a student consultant? Måns Wirfelt, manager at Lunicore, will tell you more about real-world projects: the models used, the business aspects, and how they help their clients with AI solutions.
 
-<!---
-Present the past events below
--->
-<h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Past Events</h2>
-<hr style="border-bottom: double"> 
+
+---
 
 ## Workshop: Generative AI with Accenture
 ##### :round_pushpin: **EC1:135: Tycho Brahes väg 1, 223 63 Lund**
