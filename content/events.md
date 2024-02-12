@@ -7,7 +7,12 @@ Present the upcoming events below
 <h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Upcoming Events</h2>
 <hr style="border-bottom: double"> 
 
-Nothing right now... Come back soon!
+## Exploring the Influence of Big Tech on Democratic Debate
+##### :round_pushpin: **MA 3: Sölvegatan 20, 223 62 Lund**
+##### :date: **February 21 2024 18:15**
+##### :link: [Facebook event](https://fb.me/e/266xvoB27)
+
+The digitalization of our democratic debate and increased incorporation of generative AI in our daily lives has brought to light increased problems concerning hate speech, polarization, and foreign interference in the form of disinformation. As modern issues require modern solutions, the Nordic Think Tank for Tech and Democracies has released recommendations for a safe digital democracy. Tobias Bornakke, PhD and co-founder of the Nordic cooperative Analysis and Numbers, will share his insights on these guidelines as well as how the Nordic countries and citizens best prepare for our democracy for the years ahead.
 
 <!---
 Present the past events below
