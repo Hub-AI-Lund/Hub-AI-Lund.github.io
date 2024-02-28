@@ -38,7 +38,7 @@ title = "Join Us"
 enable = true
 title = 'About Us'
 body = '''
-Hub AI is a student organization that organizes various types of events related to the applications of AI for Lund University students. Our events range from guest lectures and panel discussions to Python workshops and social events. In addition, since Hub AI hosts interdisciplinary events, we attract students with different backgrounds ranging from engineering, biotechnology and computer science to economics, political science and psychology
+Hub AI is a student organization that organizes various types of events related to the applications of AI for students at Lund University. Our events range from guest lectures and panel discussions to Python workshops and social events. Since Hub AI hosts interdisciplinary events, we attract students with different backgrounds ranging from engineering, biotechnology and computer science to economics, political science and psychology
 '''
 
 [params.two]
@@ -47,22 +47,22 @@ enable = true
 [[params.two.section]]
 img = "educate.jpg"
 title = 'Guest Lectures'
-body = 'One of the most common types of events that we host are guest lectures or colloquiums. Such events revolve around one or several professionals who are invited to talk about a particular area related to AI such as Brain-Inspired Computing, AI in Diagnosing Mental Illness, Smart Cities, Thesis Writing or Entrepreneurship in Tech'
+body = 'One of our most common types of events are guest lectures or colloquiums. Such events revolve around one or several professionals who are invited to talk about a particular area related to AI. Some previous examples include Brain-Inspired Computing, AI in Diagnosing Mental Illness, Smart Cities, Thesis Writing or Entrepreneurship in Tech'
 
 [[params.two.section]]
 img = "share.jpg"
 title = 'Panel Discussions'
-body = 'Some topics make it more beneficial to have a discussion between several people to capture a wider perspective, hence we also host panel events. Our panel discussions welcome professionals, scholars or students to discuss topics such as Diversity in AI, AI and Sustainability or Life Science meets AI'
+body = 'Some topics make it more beneficial to have a discussion between several people to capture a wider perspective. Hence, we also host panel events. Our panel discussions welcome professionals, scholars or students to discuss topics such as Diversity in AI, AI and Sustainability or Life Science meets AI'
 
 [[params.two.section]]
-img = "workshop.png"
+img = "workshop.jpg"
 title = 'Python Workshops'
 body = 'Each semester we host a series of Python workshops. There are six workshops in total with the first three being designed for beginners, while the remaining ones cover more complex concepts building on top of material covered in the previous workshops'
 
 [[params.two.section]]
 img = "social.png"
 title = 'Social Events'
-body = 'As an organisation, we aim to create a community for like-minded people, which is why we also host less formal social events with greater flexibility in terms of exact format. Such events range from a board game night and pizza mingle to going hiking or bowling'
+body = 'As an organization, we aim to create a community for like-minded people, which is why we also host less formal social events with greater flexibility in terms of exact format. Such events range from board game nights and pizza mingles to going hiking or bowling'
 
 [params.three]
 enable = true
@@ -73,40 +73,58 @@ The committee members are the main drivers shaping what type of events we host a
 
 # NOTE! File size really matters for the website's responsiveness. Decrease the size and compress images.
 [[params.three.feature]]
-headshot = '<img src="team/emil.jpg"/ class="headshot">'
+headshot = '<img src="team/Maja.JPG"/ class="headshot">'
 title = "President"
-name = "Emil Damirov"
-body = "Through my Master's studies in finance and extracurricular activities, I got exposed to coding and quickly found my way to AI. Though the projects I worked on are mainly within empirical finance, I developed an immense interest in potential applications of AI within other fields"
+name = "Maja Isaksson"
+body = "I am currently pursuing my Master of Laws. In light of recent technological developments, the field of law has been shaped by our digital society. The emergence of AI within our society signifies a unique juncture where historical reflections converge with future possibilities, challenging traditional notions of human-centric creation and responsibility. Exploring how to address these changes in terms of obligations, rights, and responsibilities is truly fascinating"
 
 [[params.three.feature]]
-headshot = '<img src="team/lola.jpg"/ class="headshot">'
-name = "Charlotte Schöllkopf"
+headshot = '<img src="team/Fiona.JPG"/ class="headshot">'
+name = "Fiona Krummenacher"
 title = "Vice President"
-body = "I'm doing my Master's in Psychology and Statistics and Data Science, and my focus is on research and the interface between Neuroscience and AI, e.g., my Bachelor's thesis was in the field of Computer Vision, assessing similarities between the human ventral visual stream and Neural Network architecture"
+body = "I am currently pursuing my Master's degree in Psychology with specializations in Neuroscience and Organizational Psychology. My deep fascination with AI arises from the big impact it will have in shaping our future. I believe that it is essential for us, as young individuals, to gain a comprehensive understanding of AI - not only in terms of how it works but also its potential applications within our respective fields of study"
 
 [[params.three.feature]]
-headshot = '<img src="team/diego.jpg"/ class="headshot">'
-name = "Diego Figueroa"
-title = "Head of Education"
-body = "Currently doing my Master's thesis in GANs, I’m in my last semester in the Master’s in Machine Learning, Systems and Control. I’m interested in image-to-image, text-to-text and text-to-image DL models"
-
-[[params.three.feature]]
-headshot = '<img src="team/adrian.jpg"/ class="headshot">'
-name = "Adrian Murphy"
+headshot = '<img src="team/Grace.JPG"/ class="headshot">'
+name = "Grace Chung"
 title = "Head of External Partnerships"
-body = "As a soon-to-be computer scientist, I have a solid background in the technical aspects of AI. Through my membership in Hub AI, I have learned that there is much more to the subject than chasing performance in a Jupyter Notebook"
+body = "As a Master's student in Entrepreneurship and Innovation, I am curious about the latest business opportunities, particularly holding a strong belief that Artificial Intelligence is going to change our lives. Having said that, proper integration and general public education are the keys for us to fully utilize this relatively new concept. I believe Hub AI will be a very good platform to facilitate that"
 
 [[params.three.feature]]
-headshot = '<img src="team/michelle.jpg"/ class="headshot">'
-name = "Michelle Konopka"
-title = "Head of Marketing & Communications"
-body = "I am studying Social Scientific Data Analysis, where research meets state-of-the-art methodology and big data. My main points of interest are AI applications for security and the interplay between society and technology"
+headshot = '<img src="team/Leon.JPG"/ class="headshot">'
+name = "Leon Wolf"
+title = "Head of External Partnerships"
+body = "As a Master's student specializing in Social Scientific Data Analysis, my passion converges at the intersection of Artificial Intelligence and societal challenges. With a strong foundation in European Studies, my interdisciplinary perspective aligns seamlessly with my commitment to leveraging AI addressing socio-political and socio-economic challenges in our data-driven era, shaping my profound interest in the field"
 
 [[params.three.feature]]
-headshot = '<img src="team/anonymous.png"/ class="headshot">'
-name = "You?"
-title = "Head of Something Else"
-body = "The Hub AI team is growing! Do you want to be part of this exciting journey bridging the gap between artificial intelligence, research, and industry? Apply to join our committee!"
+headshot = '<img src="team/Tawfique.JPG"/ class="headshot">'
+name = "Tawfique Elahi"
+title = "Head of Events"
+body = "Currently pursuing a Master's in Information Systems, my research interests extend beyond my core studies to encompass HCI and AI. My curiosity has recently steered me towards the critical fields of AI ethics and safety, with a keen focus on their implications in the global south. This emerging passion is guiding my exploration into the ethical nuances of AI technology and its varied effects on communities worldwide"
+
+[[params.three.feature]]
+headshot = '<img src="team/Julia.JPG"/ class="headshot">'
+name = "Julia Okuniewska"
+title = "Head of Events"
+body = "As a Bachelor's student in Biomedicine, I’m absolutely fascinated by the dynamic relationship between AI and neuroscience. New AI designs can be inspired by the knowledge of neural networks, and conversely, computational knowledge can help create tools to further understand brain function. I find the potential and the intersectionality of these topics very exciting, and I hope to be able to share my passion here at Hub AI"
+
+[[params.three.feature]]
+headshot = '<img src="team/Ralf.JPG"/ class="headshot">'
+name = "Ralf Vesterberg"
+title = "Head of Marketing"
+body = "I am a student of Social Anthropology with a prior background in Applied AI. My studies have led me down a unique path where I've delved into both human societies and technological advancements. This blend showcases my genuine interest in understanding how AI intersects with cultural dynamics"
+
+[[params.three.feature]]
+headshot = '<img src="team/Jianan.JPG"/ class="headshot">'
+name = "Jianan Wei"
+title = "Treasurer"
+body = "As a Sociology of Law Master's student and former legal counsel in an AI startup, my interest lies in exploring AI governance to balance innovation and human rights, especially from SMEs' viewpoint. I aim to navigate this intersection, ensuring AI advancements benefit society while safeguarding fundamental rights, forming the basis of my academic and professional pursuits"
+
+#[[params.three.feature]]
+#headshot = '<img src="team/anonymous.png"/ class="headshot">'
+#name = "You?"
+#title = "Head of Something Else"
+#body = "The Hub AI team is growing! Do you want to be part of this exciting journey bridging the gap between artificial intelligence, research, and industry? Apply to join our committee!"
 
 [params.one]
 enable = true
