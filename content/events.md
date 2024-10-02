@@ -15,6 +15,16 @@ Present the past events below
 <h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Past Events</h2>
 <hr style="border-bottom: double"> 
 
+## From Pixels to Possibilities: Exploring human creativity and AI in game design
+##### :round_pushpin: **E:1406 Ole Römers väg 3, 223 63 Lund**
+##### :date: **March 27 2024 18:00**
+##### :link: [Facebook event](https://fb.me/e/2bzBLs2ei)
+
+Unlock the Next Level of Game Design: collaborate with AI to push the boundaries of your imagination, discover if AI is the ultimate player two for human creativity, and see the Evolutionary World Designer (EDDy) in action. Whether you're a coding wizard, a design guru, or just AI-curious, gear up for an evening of insights, interaction, and innovation. Don't miss out on leveling up your network with fellow students from all corners of Lund University!
+
+
+---
+
 ## Exploring the Influence of Big Tech on Democratic Debate
 ##### :round_pushpin: **MA 3: Sölvegatan 20, 223 62 Lund**
 ##### :date: **February 21 2024 18:00**
