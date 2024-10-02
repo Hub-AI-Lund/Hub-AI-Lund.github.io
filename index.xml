@@ -1,2 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hub AI</title><link>https://hubai.se/</link><description>Recent content on Hub AI</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://hubai.se/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://hubai.se/events/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hubai.se/events/</guid><description>Upcoming Events Nothing right now! Check back soon&amp;hellip;
-Past Events Exploring the Influence of Big Tech on Democratic Debate &amp;#x1f4cd; MA 3: Sölvegatan 20, 223 62 Lund &amp;#x1f4c5; February 21 2024 18:00 &amp;#x1f517; Facebook event The digitalization of our democratic debate and increased incorporation of generative AI in our daily lives has brought to light increased problems concerning hate speech, polarization, and foreign interference in the form of disinformation. As modern issues require modern solutions, the Nordic Think Tank for Tech and Democracies has released recommendations for a safe digital democracy.</description></item><item><title/><link>https://hubai.se/recruitment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hubai.se/recruitment/</guid><description> Get active in the Hub! We offer free membership for all students at Lund University. Register here. You can also get active in the committee team, shape the future of Hub AI, expand your network, and develop professional and soft skills! Hub AI is growing and wants you on board for this exciting journey! Read more and apply here.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hub AI</title><link>https://hubai.se/</link><description>Recent content on Hub AI</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://hubai.se/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://hubai.se/events/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hubai.se/events/</guid><description>&lt;!---
+Present the upcoming events below
+-->
+&lt;h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Upcoming Events&lt;/h2>
+&lt;hr style="border-bottom: double"> 
+&lt;p>Nothing right now! Check back soon&amp;hellip;&lt;/p>
+&lt;!---
+Present the past events below
+-->
+&lt;h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Past Events&lt;/h2>
+&lt;hr style="border-bottom: double"> 
+&lt;h2 id="from-pixels-to-possibilities-exploring-human-creativity-and-ai-in-game-design">From Pixels to Possibilities: Exploring human creativity and AI in game design&lt;/h2>
+&lt;h5 id="round_pushpin-e1406-ole-römers-väg-3-223-63-lund">&amp;#x1f4cd; &lt;strong>E:1406 Ole Römers väg 3, 223 63 Lund&lt;/strong>&lt;/h5>
+&lt;h5 id="date-march-27-2024-1800">&amp;#x1f4c5; &lt;strong>March 27 2024 18:00&lt;/strong>&lt;/h5>
+&lt;h5 id="link-facebook-eventhttpsfbmee2bzbls2ei">&amp;#x1f517; &lt;a href="https://fb.me/e/2bzBLs2ei">Facebook event&lt;/a>&lt;/h5>
+&lt;p>Unlock the Next Level of Game Design: collaborate with AI to push the boundaries of your imagination, discover if AI is the ultimate player two for human creativity, and see the Evolutionary World Designer (EDDy) in action. Whether you&amp;rsquo;re a coding wizard, a design guru, or just AI-curious, gear up for an evening of insights, interaction, and innovation. Don&amp;rsquo;t miss out on leveling up your network with fellow students from all corners of Lund University!&lt;/p></description></item><item><title/><link>https://hubai.se/recruitment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hubai.se/recruitment/</guid><description>&lt;img class="recruitment-image" src="https://hubai.se/recruitment.png" />
+&lt;h2 class="padded-title">Get active in the Hub!&lt;/h2>
+&lt;ul>
+ &lt;li>
+ We offer free membership for all students at Lund University. Register &lt;a href="https://forms.gle/sffmPqSSTXEsckDC7">here&lt;/a>.
+ &lt;/li>
+ &lt;li>
+ You can also get active in the committee team, shape the future of Hub AI, expand your network, and develop professional and soft skills! Hub AI is growing and wants you on board for this exciting journey! Read more and apply &lt;a href="https://forms.gle/1CGeNVR7HKWwCR8B6">here&lt;/a>.
+ &lt;/li> 
+&lt;/ul></description></item></channel></rss>
