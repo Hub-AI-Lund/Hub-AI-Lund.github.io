@@ -7,7 +7,16 @@ Present the upcoming events below
 <h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Upcoming Events</h2>
 <hr style="border-bottom: double"> 
 
-Nothing right now! Check back soon...
+## Intro to Python and Machine learning
+##### :round_pushpin: Forum Medicum BMC:E16003 (Adress: Sölvegatan 19, 223 62 Lund)
+##### :date: **Session 1: November 13th (Wednesday), 18:00-20:00 (sharp)**
+##### :date: **Session 2: November 21st (Thursday), 18:00-20:00 (sharp)**
+##### :date: **Session 3: December 3rd (Tuesday), 18:00-20:00 (sharp)**
+##### :link: [Facebook event](https://fb.me/e/20iyRnz8H)
+
+Are you a student without prior programming experience and are curios about machine learning? Then this workshop is for you, free of charge!
+Before the workshops, you will be provided with Google Colab notebooks explaining the theory with numerous examples. That knowledge will give you all the basic knowledge of Python needed to fully engage in the first and second sessions where we will get comfortable with basic coding and data handling. Our last session will build upon this new founded knowledge and introduce the basics of machine learning.
+
 
 <!---
 Present the past events below
@@ -15,13 +24,24 @@ Present the past events below
 <h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Past Events</h2>
 <hr style="border-bottom: double"> 
 
+## Existential Risks from Advanced AI - Discussion night
+##### :round_pushpin: Tycho Brahes väg 1, 223 63 Lund, Room: EC136
+##### :date: **April 11th 2024**
+##### :link: [Facebook event](https://fb.me/e/2rSDhgNY4)
+
+Come join EA Lunds first discussion night in proud collaboration with HubAI.
+The night will start of with a presentation from Lund University graduate and independent AI Safety Researcher Marcus Williams.
+The presentation explores the potential for catastrophic or even existential (i.e. human extinction) risks from future advanced AI systems and why one might want to take these risks seriously. We will examine various potential difficulties in aligning and developing safe advanced AI systems along with several research agendas and initiatives aiming to reduce or mitigate these risks.
+Through this overview, attendees will gain a deeper understanding of the complex challenges surrounding advanced AI and the crucial work being done to safeguard our future.
+
+---
+
 ## From Pixels to Possibilities: Exploring human creativity and AI in game design
 ##### :round_pushpin: **E:1406 Ole Römers väg 3, 223 63 Lund**
 ##### :date: **March 27 2024 18:00**
 ##### :link: [Facebook event](https://fb.me/e/2bzBLs2ei)
 
 Unlock the Next Level of Game Design: collaborate with AI to push the boundaries of your imagination, discover if AI is the ultimate player two for human creativity, and see the Evolutionary World Designer (EDDy) in action. Whether you're a coding wizard, a design guru, or just AI-curious, gear up for an evening of insights, interaction, and innovation. Don't miss out on leveling up your network with fellow students from all corners of Lund University!
-
 
 ---
 
