@@ -7,6 +7,17 @@ Present the upcoming events below
 <h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Upcoming Events</h2>
 <hr style="border-bottom: double"> 
 
+
+Nothing right now! Check back soon...
+
+---
+
+<!---
+Present the past events below
+-->
+<h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Past Events</h2>
+<hr style="border-bottom: double"> 
+
 ## Intro to Python and Machine learning
 ##### :round_pushpin: Forum Medicum BMC:E16003 (Adress: Sölvegatan 19, 223 62 Lund)
 ##### :date: **Session 1: November 13th (Wednesday), 18:00-20:00 (sharp)**
@@ -18,11 +29,7 @@ Are you a student without prior programming experience and are curios about mach
 Before the workshops, you will be provided with Google Colab notebooks explaining the theory with numerous examples. That knowledge will give you all the basic knowledge of Python needed to fully engage in the first and second sessions where we will get comfortable with basic coding and data handling. Our last session will build upon this new founded knowledge and introduce the basics of machine learning.
 
 
-<!---
-Present the past events below
--->
-<h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Past Events</h2>
-<hr style="border-bottom: double"> 
+---
 
 ## Existential Risks from Advanced AI - Discussion night
 ##### :round_pushpin: Tycho Brahes väg 1, 223 63 Lund, Room: EC136
@@ -33,6 +40,7 @@ Come join EA Lunds first discussion night in proud collaboration with HubAI.
 The night will start of with a presentation from Lund University graduate and independent AI Safety Researcher Marcus Williams.
 The presentation explores the potential for catastrophic or even existential (i.e. human extinction) risks from future advanced AI systems and why one might want to take these risks seriously. We will examine various potential difficulties in aligning and developing safe advanced AI systems along with several research agendas and initiatives aiming to reduce or mitigate these risks.
 Through this overview, attendees will gain a deeper understanding of the complex challenges surrounding advanced AI and the crucial work being done to safeguard our future.
+
 
 ---
 
