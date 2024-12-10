@@ -93,7 +93,6 @@ title = "Head of Education"
 body = "My interests and studies in engineering risk management and mathematical statistics center around exploring the intersection of AI, mathematics, and practical applications. As Head of Education at Hub AI, I combine my passion for teaching with my interest for AI and programming, facilitating workshops that help others explore these fields. My academic and professional pursuits span risk management, machine learning, and statistical modeling, all tied together by a focus on how mathematical insights can drive advancements in AI and solve real-world problems."
 
 [[params.three.feature]]
-headshot = '<img src="team/Tawfique.JPG"/ class="headshot">'
 name = "Julia"
 title = "Head of Events"
 body = "As a Bachelor's student in Biomedicine, I’m intrigued by the dynamic relationship between AI and neuroscience. New AI designs can be inspired by the knowledge of neural networks, and conversely, computational knowledge can help create tools to further understand brain function. I find the potential and the intersectionality of these topics very exciting, and hope to be able to share my passion here, at Hub AI."
@@ -108,11 +107,11 @@ name = "Karin"
 title = "Treasurer"
 body = "My interest in AI, as a Bachelor’s student in Business Administration, stems from a perceived lack of focus on the matter in the current curriculum. It is well-known that AI will affect the current roles in many fields by automating and streamlining inefficient processes. I believe that gaining knowledge about the competences expected by employers due to these changes is considered important by many of today’s students. I seek to provide this knowledge through Hub AI, while also learning more about what the future may hold for AI advancements."
 
-#[[params.three.feature]]
-#headshot = '<img src="team/anonymous.png"/ class="headshot">'
-#name = "You?"
-#title = "Head of Something Else"
-#body = "The Hub AI team is growing! Do you want to be part of this exciting journey bridging the gap between artificial intelligence, research, and industry? Apply to join our committee!"
+[[params.three.feature]]
+headshot = '<img src="team/anonymous.png"/ class="headshot">'
+name = "You?"
+title = "Head of Something Else"
+body = "The Hub AI team is growing! Do you want to be part of this exciting journey bridging the gap between artificial intelligence, research, and industry? Apply to join our committee!"
 
 [params.one]
 enable = true
