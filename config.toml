@@ -73,36 +73,43 @@ The board members are the main drivers shaping what type of events we host and a
 
 # NOTE! File size really matters for the website's responsiveness. Decrease the size and compress images.
 [[params.three.feature]]
+headshot = '<img src="team/Maja.JPG"/ class="headshot">'
 title = "President"
 name = "Maja"
 body = "I am currently pursuing my Master of Laws. In light of recent technological developments, the field of law has been shaped by our digital society. The emergence of AI within our society signifies a unique juncture where historical reflections converge with future possibilities, challenging traditional notions of human-centric creation and responsibility. Exploring how to address these changes in terms of obligations, rights, and responsibilities is truly fascinating"
 
 [[params.three.feature]]
+headshot = '<img src="team/anonymous.png"/ class="headshot">'
 name = "Olivia"
 title = "Vice President"
 body = "I am currently pursuing my Master of Laws. In light of recent technological developments, the field of law has been shaped by our digital society. The emergence of AI within our society signifies a unique juncture where historical reflections converge with future possibilities, challenging traditional notions of human-centric creation and responsibility. Exploring how to address these changes in terms of obligations, rights, and responsibilities is truly fascinating"
 
 [[params.three.feature]]
+headshot = '<img src="team/anonymous.png"/ class="headshot">'
 name = "Herman"
 title = "Head of External Partnerships"
 body = "As a Business and Economics student with a strong interest in technology, I’m fascinated by AI’s impact on businesses, societal change, economies, and innovation for sustainable development. In my role at Hub AI, I aim to connect the organization and students with industry leaders and innovators, fostering partnerships that showcase AI’s real-world applications. My goal is to create opportunities for members to gain valuable insights into AI’s transformative potential and its broader societal and economic implications."
 
 [[params.three.feature]]
+headshot = '<img src="team/anonymous.png"/ class="headshot">'
 name = "Johan"
 title = "Head of Education"
 body = "My interests and studies in engineering risk management and mathematical statistics center around exploring the intersection of AI, mathematics, and practical applications. As Head of Education at Hub AI, I combine my passion for teaching with my interest for AI and programming, facilitating workshops that help others explore these fields. My academic and professional pursuits span risk management, machine learning, and statistical modeling, all tied together by a focus on how mathematical insights can drive advancements in AI and solve real-world problems."
 
 [[params.three.feature]]
+headshot = '<img src="team/Julia.JPG"/ class="headshot">'
 name = "Julia"
 title = "Head of Events"
 body = "As a Bachelor's student in Biomedicine, I’m intrigued by the dynamic relationship between AI and neuroscience. New AI designs can be inspired by the knowledge of neural networks, and conversely, computational knowledge can help create tools to further understand brain function. I find the potential and the intersectionality of these topics very exciting, and hope to be able to share my passion here, at Hub AI."
 
 [[params.three.feature]]
+headshot = '<img src="team/anonymous.png"/ class="headshot">'
 name = "Fabio"
 title = "Head of Development"
 body = "I'm currently studying for a Master's in Social Scientific Data Analysis after finishing my Bachelor's in Sociology. I think it's great that data is becoming more and more important in society thanks to AI. This is changing how we see social relationships and behaviors, giving us some great insights but also raising some ethical questions about privacy and inequality. I'm really interested in how AI affects societal norms and structures. My aim is to use data insights to tackle social challenges in this fast-changing field."
 
 [[params.three.feature]]
+headshot = '<img src="team/anonymous.png"/ class="headshot">'
 name = "Karin"
 title = "Treasurer"
 body = "My interest in AI, as a Bachelor’s student in Business Administration, stems from a perceived lack of focus on the matter in the current curriculum. It is well-known that AI will affect the current roles in many fields by automating and streamlining inefficient processes. I believe that gaining knowledge about the competences expected by employers due to these changes is considered important by many of today’s students. I seek to provide this knowledge through Hub AI, while also learning more about what the future may hold for AI advancements."
