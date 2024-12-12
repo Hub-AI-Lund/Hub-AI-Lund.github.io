@@ -79,7 +79,7 @@ name = "Maja"
 body = "I am currently pursuing my Master of Laws. In light of recent technological developments, the field of law has been shaped by our digital society. The emergence of AI within our society signifies a unique juncture where historical reflections converge with future possibilities, challenging traditional notions of human-centric creation and responsibility. Exploring how to address these changes in terms of obligations, rights, and responsibilities is truly fascinating"
 
 [[params.three.feature]]
-headshot = '<img src="team/anonymous.png"/ class="headshot">'
+headshot = '<img src="team/Olivia.jpeg"/ class="headshot">'
 name = "Olivia"
 title = "Vice President"
 body = "I am currently pursuing my Master of Laws. In light of recent technological developments, the field of law has been shaped by our digital society. The emergence of AI within our society signifies a unique juncture where historical reflections converge with future possibilities, challenging traditional notions of human-centric creation and responsibility. Exploring how to address these changes in terms of obligations, rights, and responsibilities is truly fascinating"
@@ -103,7 +103,7 @@ title = "Head of Events"
 body = "As a Bachelor's student in Biomedicine, I’m intrigued by the dynamic relationship between AI and neuroscience. New AI designs can be inspired by the knowledge of neural networks, and conversely, computational knowledge can help create tools to further understand brain function. I find the potential and the intersectionality of these topics very exciting, and hope to be able to share my passion here, at Hub AI."
 
 [[params.three.feature]]
-headshot = '<img src="team/anonymous.png"/ class="headshot">'
+headshot = '<img src="team/Fabio.jpeg"/ class="headshot">'
 name = "Fabio"
 title = "Head of Development"
 body = "I'm currently studying for a Master's in Social Scientific Data Analysis after finishing my Bachelor's in Sociology. I think it's great that data is becoming more and more important in society thanks to AI. This is changing how we see social relationships and behaviors, giving us some great insights but also raising some ethical questions about privacy and inequality. I'm really interested in how AI affects societal norms and structures. My aim is to use data insights to tackle social challenges in this fast-changing field."
