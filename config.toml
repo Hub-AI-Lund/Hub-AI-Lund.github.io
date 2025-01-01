@@ -82,7 +82,7 @@ body = "I am currently pursuing my Master of Laws. In light of recent technologi
 headshot = '<img src="team/Olivia.jpeg"/ class="headshot">'
 name = "Olivia"
 title = "Vice President"
-body = "I am currently pursuing my Master of Laws. In light of recent technological developments, the field of law has been shaped by our digital society. The emergence of AI within our society signifies a unique juncture where historical reflections converge with future possibilities, challenging traditional notions of human-centric creation and responsibility. Exploring how to address these changes in terms of obligations, rights, and responsibilities is truly fascinating"
+body = "I am a law student pursuing a Master of Laws and a Master of European Business Law. My interest lies primarily in ethical and philosophical dilemmas, such as the question of whether AI systems can be creative or not. My drive within Hub AI is to provide our members with tools to take advantage of the benefits of AI technology while being mindful of the consequences that it might bring."
 
 [[params.three.feature]]
 headshot = '<img src="team/anonymous.png"/ class="headshot">'
