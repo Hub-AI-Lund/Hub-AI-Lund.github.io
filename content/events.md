@@ -7,15 +7,14 @@ Present the upcoming events below
 <h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Upcoming Events</h2>
 <hr style="border-bottom: double"> 
 
-## Guest lecture with Peter Gärdenfors
-##### :date: Tuesday 21 January
-##### :round_pushpin: E:B Lecture Hall, E-Huset, LTH
+## Friday, Film Night: HER
+##### :date: Friday, 28th February 
+##### :round_pushpin: Juridicum, Lunds Universitet
 ##### :link: Sign up here: [Google Form](https://docs.google.com/forms/d/1QfgfLsl-L5nbJqIXL2eDTP7-KY_dukM-zTrWjdRjNq8/edit)
 
-Are you interested in artificial intelligence or cognitive processes? Perhaps you are intrigued to know whether the thought processes of AI will ever measure up to human intelligence?
-In our exciting guest lecture with internationally acclaimed Professor Peter Gärdenfors, he will discuss his new book and reveal the answer to the question: “Can AI think?”
-We will learn how our human intelligence is made up of a broad range of skills and abilities, and how current AI technology shapes up in comparison.
-If you’re curious about AI, you’ll love this lecture!
+We will be watching the Oscar award-winning film “Her”, directed by Spike Jonze and starring Joaquin Phoenix and Scarlett Johansson. Her is a unique love story exploring friendship and romance in the world of artificial intelligence.
+Her is a classic film that will appeal to everyone, regardless of your level of interest in artificial intelligence! While the film is set in the future, it’s an especially intriguing movie to watch when you consider the current development of AI chatbots.
+We’re sure you’ll agree that it’s a great way to spend a cosy Friday evening, so come along after class, bring a pal, and your favourite movie snack!
 
 ---
 
@@ -24,6 +23,18 @@ Present the past events below
 -->
 <h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Past Events</h2>
 <hr style="border-bottom: double"> 
+
+## Guest lecture with Peter Gärdenfors
+##### :date: Tuesday, 21 January
+##### :round_pushpin: E:B Lecture Hall, E-Huset, LTH
+##### :link: Sign up here: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfUQfxkqhP_uSyXGZtLtCbNj7pSMz6L2107FeN1zL8Cv2AuBA/viewform)
+
+Are you interested in artificial intelligence or cognitive processes? Perhaps you are intrigued to know whether the thought processes of AI will ever measure up to human intelligence?
+In our exciting guest lecture with internationally acclaimed Professor Peter Gärdenfors, he will discuss his new book and reveal the answer to the question: “Can AI think?”
+We will learn how our human intelligence is made up of a broad range of skills and abilities, and how current AI technology shapes up in comparison.
+If you’re curious about AI, you’ll love this lecture!
+
+---
 
 ## Intro to Python and Machine learning
 ##### :round_pushpin: Forum Medicum BMC:E16003 (Adress: Sölvegatan 19, 223 62 Lund)
