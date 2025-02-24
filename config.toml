@@ -2,7 +2,7 @@ baseURL = "https://hubai.se"
 languageCode = "en-us"
 title = 'Hub AI'
 defaultContentLanguage = "en"
-pagination.pagerSize = 7 = "7"
+pagination.pagerSize = 7
 theme = "spectral"
 enableEmoji=true
 
