@@ -2,7 +2,11 @@
 					<footer id="footer">
 						<ul class="icons">
               {{ with .Site.Params.social.facebook }}
-              <li><a href="https://facebook.com/{{ . }}" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+              <li style="padding-left: 1.1rem;">
+                <a href="https://facebook.com/{{ . }}" class="icon fa-facebook">
+                  <span class="label">Facebook</span>
+                </a>
+              </li>
               {{ end }}
               {{ with .Site.Params.social.instagram }}
               <li><a href="https://instagram.com/{{ . }}" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
@@ -10,20 +14,11 @@
               {{ with .Site.Params.social.linkedin }}
               <li><a href="https://www.linkedin.com/{{ . }}" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
               {{ end }}
-              {{ with .Site.Params.social.dribble }}
-              <li><a href="https://dribble.com/{{ . }}" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-              {{ end }}
-              {{ with .Site.Params.social.youtube }}
-              <li><a href="https://www.youtube.com/channel/{{ . }}" class="icon fa-youtube"><span class="label">YouTube</span></a></li>
-              {{ end }}
               {{ with .Site.Params.social.email }}
               <li><a href="mailto:{{ . }}" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
               {{ end }}
-	      {{ with .Site.Params.social.privacy_policy }}
-	       <p><a href="{{ . }}">Privacy Policy</a></p>
-	      {{ end }}
-              {{ with .Site.Params.contact.phone }}
-              <li><a href="tel:{{ . }}" class="icon fa-phone"><span class="label">Phone</span></a></li>
+              {{ with .Site.Params.social.privacy_policy }}
+              <h5 style="margin-top: 1rem;"><a href="{{ . }}">Privacy Policy</a></h5>
               {{ end }}
 						</ul>
             <h2>{{ .Site.Params.social.footerImage | safeHTML }}</h2>

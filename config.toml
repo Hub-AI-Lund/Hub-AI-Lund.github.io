@@ -2,7 +2,7 @@ baseURL = "https://hubai.se"
 languageCode = "en-us"
 title = 'Hub AI'
 defaultContentLanguage = "en"
-pagination.pagerSize = 7
+"pagination.pagerSize" = 7
 theme = "spectral"
 enableEmoji=true
 
@@ -176,7 +176,6 @@ facebook = "HubAILund"
 instagram = "hubailund"
 linkedin = "company/hubai/"
 email = "hello@hubai.se"
-dribble = ""
 privacy_policy = "https://docs.google.com/document/d/125UiXliA1pm2etY3MclWvEGSWVDwHtvFtYR3FqCuym0/edit?usp=drive_link"
 footerImage = '''
     <img height="128" width="128" src="/af.png"/>
