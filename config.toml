@@ -38,7 +38,7 @@ title = "Join Us"
 enable = true
 title = 'About Us'
 body = '''
-Hub AI is a student organization that organizes of events related to the applications of AI for students at Lund University. Our events range from guest lectures and panel discussions to Python workshops and social events. Since Hub AI hosts interdisciplinary events, we attract students with different backgrounds ranging from engineering, biotechnology and computer science to economics, political science and psychology
+Hub AI is a student organization that organizes events related to the applications of AI for students at Lund University. Our events range from guest lectures and panel discussions to Python workshops and social events. Since Hub AI hosts interdisciplinary events, we attract students with different backgrounds ranging from engineering, biotechnology and computer science to economics, political science and psychology
 '''
 
 [params.two]
