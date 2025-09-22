@@ -16,8 +16,6 @@ We will be watching the Oscar award-winning film “Her”, directed by Spike Jo
 Her is a classic film that will appeal to everyone, regardless of your level of interest in artificial intelligence! While the film is set in the future, it’s an especially intriguing movie to watch when you consider the current development of AI chatbots.
 We’re sure you’ll agree that it’s a great way to spend a cosy Friday evening, so come along after class, bring a pal, and your favourite movie snack!
 
----
-
 <!---
 Present the past events below
 -->
