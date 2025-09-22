@@ -4,8 +4,81 @@
 <!---
 Present the upcoming events below
 -->
-<h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Upcoming Events</h2>
+
+
+<!---
+Present the past events below
+-->
+<h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Past Events</h2>
 <hr style="border-bottom: double"> 
+
+## AI Scavenger Hunt
+##### :date: Saturday, 30th August  
+##### :round_pushpin: Lund Cathedral  
+Hub AI invited students to Lund’s biggest **AI Scavenger Hunt** — an afternoon of teamwork, problem-solving, and fun while exploring the city of Lund.  
+Participants worked together in teams to crack clues, solve riddles, and take on creative challenges.  
+It was a great opportunity to:  
+🔹 Meet new people and make friends  
+🔹 Get to know Lund in a unique way  
+🔹 Compete for prizes through puzzles and teamwork  
+Pizza was provided, and the winning teams walked away with prizes.  
+⏰ 13:00  
+
+---
+
+## AI for Sustainability with Accenture
+##### :date: 8th May  
+##### :round_pushpin: The Blue Hall, Ekologihuset, 18:00
+
+Join us for an inspiring evening where **Accenture** will showcase how they are leveraging AI to drive innovation and impact within the sustainability sector.  
+Discover real-world examples of how cutting-edge technology is shaping a greener future — and get hands-on experience by building your own AI assistant!  
+During the workshop, you’ll learn valuable skills from industry experts.  
+Whether you’re passionate about tech, sustainability, or both, this event is a perfect opportunity to expand your knowledge and network.  
+
+---
+
+## AI and the Future of Start-ups
+##### :date: 10th April  
+##### :round_pushpin: LU Innovation @ X-Lab, LTH, 17:00–18:15 
+
+AI is driving the next wave of innovation and changing the start-up landscape.  
+Are you dreaming up big ideas or just curious about how artificial intelligence is transforming the businesses of the future? 🚀  
+@lu_innovation and @hubailund invite you to an exciting lecture (with fika!) where you will learn how AI is shaping the next generation of start-ups 💫  
+You’ll also get the chance to hear from two start-ups supported by LU Innovation and discover how they use AI in their work.  
+🥪 Sandwiches and soda will be provided 🥤  
+
+---
+
+## Learn Python with Hub AI
+##### :date: 9th April, 14th April, 7th May
+##### :round_pushpin: E:C hall, E-Huset, LTH
+
+Want to get started with **Python and Machine Learning** but don’t know where to begin?  
+We’ve got you covered! Join our free workshop series designed for **absolute beginners** — no prior coding experience needed 🧑‍💻  
+3 hands-on sessions:  
+🔹 **Intro to Python** – Learn the basics of coding in Python  
+🔹 **Intro to Data Science for Machine Learning** – Discover how data is used to power AI  
+🔹 **Intro to Machine Learning** – Build a basic ML model and apply it to real-world problems  
+Why join these workshops?  
+✅ Easy first step into programming — no experience needed  
+✅ Looks great on your CV  
+✅ Perfect for students curious about AI and programming  
+
+---
+
+## The AI Act with PwC
+##### :date: 26th March 
+##### :round_pushpin: Ekologihuset,  18:00–19:30 
+Did you know that the **European Union now has a law regulating Artificial Intelligence**? 🤖⚖️  
+It’s called the **AI Act**, and it officially came into force last August—reshaping the way companies across Europe use AI!Curious about what this means for businesses, innovation, and your future career?  
+PwC is hosting an exclusive lecture & workshop where you’ll:  
+✅ Get a deep dive into the AI Act and its impact  
+✅ Explore how AI can create real business value  
+✅ Work hands-on with AI risk assessment cases  
+If you're a **business, law, or engineering student**, this is a must-attend event to stay ahead of the curve!  
+🌯 Oh, and did we mention? Food is on us! 🌯  
+
+---
 
 ## Friday, Film Night: HER
 ##### :date: Friday, 28th February 
@@ -16,11 +89,7 @@ We will be watching the Oscar award-winning film “Her”, directed by Spike Jo
 Her is a classic film that will appeal to everyone, regardless of your level of interest in artificial intelligence! While the film is set in the future, it’s an especially intriguing movie to watch when you consider the current development of AI chatbots.
 We’re sure you’ll agree that it’s a great way to spend a cosy Friday evening, so come along after class, bring a pal, and your favourite movie snack!
 
-<!---
-Present the past events below
--->
-<h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Past Events</h2>
-<hr style="border-bottom: double"> 
+---
 
 ## Guest lecture with Peter Gärdenfors
 ##### :date: Tuesday, 21 January
