@@ -108,10 +108,10 @@ title = "Head of Development"
 body = "I’m currently studying for a Master’s in Cultural Criminology, with a strong interest in how artificial intelligence is reshaping familiar social structures. I find it fascinating to explore how AI transforms the way we understand crime and culture and how it might influence these dynamics in the future. My goal is to critically examine these changes and contribute to discussions about the ethical and societal impacts of AI in a rapidly evolving world."
 
 [[params.three.feature]]
-headshot = '<img src="team/anonymous.png"/ class="headshot">'
+headshot = '<img src="team/hannes.jpg"/ class="headshot">'
 name = "Hannes"
 title = "Treasurer"
-body = ""
+body = "As a Bachelor’s student in Business Administration, I am drawn to understanding the impact of AI on the labor market and its role in enhancing business performance. The rapid rise of AI brings significant uncertainty about its potential and impact on society, and I want to explore it on a deeper level to prepare for the transformations it may bring."
 
 [params.one]
 enable = true
