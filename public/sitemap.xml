@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/events/</loc>
+    <loc>https://hubai.se/events/</loc>
   </url><url>
-    <loc>http://localhost:1313/recruitment/</loc>
+    <loc>https://hubai.se/recruitment/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://hubai.se/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://hubai.se/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://hubai.se/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://hubai.se/tags/</loc>
   </url>
 </urlset>
