@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hub AI</title>
-    <link>https://hubai.se/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Hub AI</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://hubai.se/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://hubai.se/events/</link>
+      <link>http://localhost:1313/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hubai.se/events/</guid>
+      <guid>http://localhost:1313/events/</guid>
       <description>&lt;!---&#xD;&#xA;Present the upcoming events below&#xD;&#xA;--&gt;&#xD;&#xA;&lt;!---&#xD;&#xA;Present the past events below&#xD;&#xA;--&gt;&#xD;&#xA;&lt;h2 style=&#34;text-align: center; margin-bottom: -25px; margin-top: 25px&#34;&gt;Past Events&lt;/h2&gt;&#xD;&#xA;&lt;hr style=&#34;border-bottom: double&#34;&gt; &#xD;&#xA;&lt;h2 id=&#34;ai-scavenger-hunt&#34;&gt;AI Scavenger Hunt&lt;/h2&gt;&#xA;&lt;h5 id=&#34;date-saturday-30th-august&#34;&gt;&amp;#x1f4c5; Saturday, 30th August&lt;/h5&gt;&#xA;&lt;h5 id=&#34;round_pushpin-lund-cathedral&#34;&gt;&amp;#x1f4cd; Lund Cathedral&lt;/h5&gt;&#xA;&lt;p&gt;Hub AI invited students to Lund’s biggest &lt;strong&gt;AI Scavenger Hunt&lt;/strong&gt; — an afternoon of teamwork, problem-solving, and fun while exploring the city of Lund.&lt;br&gt;&#xA;Participants worked together in teams to crack clues, solve riddles, and take on creative challenges.&lt;br&gt;&#xA;It was a great opportunity to:&lt;br&gt;&#xA;🔹 Meet new people and make friends&lt;br&gt;&#xA;🔹 Get to know Lund in a unique way&lt;br&gt;&#xA;🔹 Compete for prizes through puzzles and teamwork&lt;br&gt;&#xA;Pizza was provided, and the winning teams walked away with prizes.&lt;br&gt;&#xA;⏰ 13:00&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://hubai.se/recruitment/</link>
+      <link>http://localhost:1313/recruitment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hubai.se/recruitment/</guid>
-      <description>&lt;img class=&#34;recruitment-image&#34; src=&#34;https://hubai.se/recruitment.png&#34; /&gt;&#xD;&#xA;&lt;h2 class=&#34;padded-title&#34;&gt;Get active in the Hub!&lt;/h2&gt;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;    &lt;li&gt;&#xD;&#xA;        We offer free membership for all students at Lund University. Register &lt;a href=&#34;https://forms.gle/sffmPqSSTXEsckDC7&#34;&gt;here&lt;/a&gt;.&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&#xD;&#xA;        You can also get active in the committee team, shape the future of Hub AI, expand your network, and develop professional and soft skills! Hub AI is growing and wants you on board for this exciting journey! Read more and apply &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSfFhZ-Zko8D8Z6H4lM7za0pDJvzdsk3UNRxBME5i9Ez6JuwjQ/viewform?usp=sf_link&#34;&gt;here&lt;/a&gt;.&#xD;&#xA;    &lt;/li&gt; &#xD;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/recruitment/</guid>
+      <description>&lt;img class=&#34;recruitment-image&#34; src=&#34;http://localhost:1313/recruitment.png&#34; /&gt;&#xD;&#xA;&lt;h2 class=&#34;padded-title&#34;&gt;Get active in the Hub!&lt;/h2&gt;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;    &lt;li&gt;&#xD;&#xA;        We offer free membership for all students at Lund University. Register &lt;a href=&#34;https://forms.gle/sffmPqSSTXEsckDC7&#34;&gt;here&lt;/a&gt;.&#xD;&#xA;    &lt;/li&gt;&#xD;&#xA;    &lt;li&gt;&#xD;&#xA;        You can also get active in the committee team, shape the future of Hub AI, expand your network, and develop professional and soft skills! Hub AI is growing and wants you on board for this exciting journey! Read more and apply &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSfFhZ-Zko8D8Z6H4lM7za0pDJvzdsk3UNRxBME5i9Ez6JuwjQ/viewform?usp=sf_link&#34;&gt;here&lt;/a&gt;.&#xD;&#xA;    &lt;/li&gt; &#xD;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
