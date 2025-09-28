@@ -75,44 +75,43 @@ The board members are the main drivers shaping what type of events we host and a
 [[params.three.feature]]
 headshot = '<img src="team/oltina2.jpg"/ class="headshot">'
 title = "President"
-name = "Oltina"
+name = "Oltina Lungu"
 body = "I am a Master’s student in European Business Law with professional experience at the intersection of AI and other fields. Passionate about innovation, I wish to integrate it into our lives in a fair and ethical way. I stay informed by attending weekly AI engineering classes and remaining open to new opportunities for growth. At Hub AI, I lead the organization toward our goals, overseeing administration, coordinating within the team and with external partners, and serving as spokesperson at events and meetings. I believe that approaching our work with curiosity, kindness, and respect for others will unlock best opportunities in AI projects."
 
 [[params.three.feature]]
 headshot = '<img src="team/mariia.jpg"/ class="headshot">'
-name = "Mariia"
+name = "Mariia Lesina"
 title = "Vice President"
 body = "I am a Master’s student in Human Rights Studies at Lund University and an Innovation intern at UNDP. Having a professional background of two years as an AI Ethics Specialist, I view making AI more ethical and transparent as my main career goal."
 [[params.three.feature]]
 headshot = '<img src="team/dasha2.jpg"/ class="headshot">'
-name = "Daria"
+name = "Daria Kahtanova"
 title = "Head of External Partnerships"
 body = "As a Business and Economics student with a strong interest in technology, I’m fascinated by AI’s impact on businesses, societal change, economies, and innovation for sustainable development. In my role at Hub AI, I aim to connect the organization and students with industry leaders and innovators, fostering partnerships that showcase AI’s real-world applications. My goal is to create opportunities for members to gain valuable insights into AI’s transformative potential and its broader societal and economic implications."
 
 [[params.three.feature]]
 headshot = '<img src="team/anonymous.png"/ class="headshot">'
-name = "Alexander"
+name = "Alexander Tzikas"
 title = "Head of Education"
 body = "I am a bachelor student in Business Administration and Economics with a personal interest in AI, machine learning, and technology in general. My particular interest is in how AI can be applied in finance and data analysis, and how these applications can drive growth and innovation. As Head of Education, I help spread knowledge about topics related to the more technical side of AI. Together with my team, I organize workshops in programming and the practical applications of various AI tools."
 
 [[params.three.feature]]
 headshot = '<img src="team/anonymous.png"/ class="headshot">'
-name = "Luzie"
+name = "Luzie Nickel"
 title = "Head of Events"
 body = ""
 
 [[params.three.feature]]
 headshot = '<img src="team/katya2.jpg"/ class="headshot">'
-name = "Ekaterina"
+name = "Ekaterina Gulina"
 title = "Head of Development"
 body = "I’m currently studying for a Master’s in Cultural Criminology, with a strong interest in how artificial intelligence is reshaping familiar social structures. I find it fascinating to explore how AI transforms the way we understand crime and culture and how it might influence these dynamics in the future. My goal is to critically examine these changes and contribute to discussions about the ethical and societal impacts of AI in a rapidly evolving world."
 
 [[params.three.feature]]
 headshot = '<img src="team/anonymous.png"/ class="headshot">'
-name = "Karin"
+name = "Hannes"
 title = "Treasurer"
-body = "My interest in AI, as a Bachelor’s student in Business Administration, stems from a perceived lack of focus on the matter in the current curriculum. It is well-known that AI will affect the current roles in many fields by automating and streamlining inefficient processes. I believe that gaining knowledge about the competences expected by employers due to these changes is considered important by many of today’s students. I seek to provide this knowledge through Hub AI, while also learning more about what the future may hold for AI advancements."
-
+body = ""
 
 [params.one]
 enable = true
