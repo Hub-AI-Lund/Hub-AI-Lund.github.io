@@ -113,6 +113,12 @@ name = "Hannes"
 title = "Treasurer"
 body = "As a Bachelor’s student in Business Administration, I am drawn to understanding the impact of AI on the labor market and its role in enhancing business performance. The rapid rise of AI brings significant uncertainty about its potential and impact on society, and I want to explore it on a deeper level to prepare for the transformations it may bring."
 
+[[params.three.feature]]
+headshot = '<img src="team/steve.jpeg"/ class="headshot">'
+name = "Steve"
+title = "Head of Marketing"
+body = "I’m pursuing a Master’s in Strategic Communication at Lund University, exploring how communication shapes human relationships in an age of technology. I’m fascinated by how AI challenges and redefines what it means to be human — our creativity, empathy, and connection. At Hub AI Lund, I help bridge people from different fields so that AI becomes more understandable, responsible, and deeply human-centered."
+
 [params.one]
 enable = true
 title = 'Our Goals'
