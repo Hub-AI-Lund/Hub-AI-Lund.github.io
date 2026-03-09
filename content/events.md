@@ -4,39 +4,61 @@
 <!---
 Present the upcoming events below
 -->
-<h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Upcoming Events</h2>
+<h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px; font-weight:bold">Upcoming Events</h2>
 <hr style="border-bottom: double">
 
-## Beginner Python Workshop Series
+## 🧠 Beginner Python Workshop Series
 
-##### :date: March 10, 17, 24, 31 & April 7
+#### :date: 5 PM | March 10, 17, 24, 31 & April 7 | 2026
 
-##### :round_pushpin: Teknodromen, M-Huset, LTH
+#### :round_pushpin: Teknodromen, M:1201, M-Huset, LTH
 
-##### :link: Sign up here: [Google Form](https://docs.google.com/forms/d/1_fMh8KV_txlVnK6DL9aAqzeBotaQFRfCiTBpdwUSe_o/viewform?ts=699c0d3f)
+#### :link: Sign up here: [Google Form](https://docs.google.com/forms/d/1_fMh8KV_txlVnK6DL9aAqzeBotaQFRfCiTBpdwUSe_o/viewform?ts=699c0d3f)
 
 We’re running a 5-week Python workshop series designed specifically for people who’ve never written a line of code before!
 Not a YouTube tutorial you’ll abandon after 20 minutes. Not some overwhelming online course, but a structured, hands-on program where you actually show up, write code, and understand what you’re doing.
 
 We’re not teaching you to memorise commands. We’re teaching you how Python thinks-how the computer interprets your code, why errors happen, and how to fix them.
 What you’ll actually learn: \
-🔹 Week 1: Foundations - How Python works, variables, data types. \
-🔹 Week 2: Control Flow - If statements, loops, logic. \
-🔹 Week 3: Data Structures - Lists, dictionaries, organising data. \
-🔹 Week 4: Functions - Writing reusable, clean code. \
-🔹 Week 5: Object-Oriented Programming - How real software is structured. \
+🔹 Week 1 (March 10) : Foundations - How Python works, variables, data types. \
+🔹 Week 2 (March 17) : Control Flow - If statements, loops, logic. \
+🔹 Week 3 (March 24) : Data Structures - Lists, dictionaries, organising data. \
+🔹 Week 4 (March 31) : Functions - Writing reusable, clean code. \
+🔹 Week 5 (April 7) : Object-Oriented Programming - How real software is structured.
 
 By the end, you’ll be able to write functional programs, debug confidently, and understand how code actually works.
+Participation Certificates to be Provided to anyone who attends all the workshops
+
+---
 
 <!---
 Present the past events below
 -->
-<h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px">Past Events</h2>
+<h2 style="text-align: center; margin-bottom: -25px; margin-top: 25px; font-weight:bold">Past Events</h2>
 <hr style="border-bottom: double">
+
+## 🧠 Computer Vision Workshop
+
+#### :date: 5 PM | Sunday, Dec 8 | 2025
+
+#### :round_pushpin: Teknodromen LTH M:1201, M-Huset, LTH
+
+#### :link: Workshop_Resources: [Google Drive](https://drive.google.com/drive/folders/1SSiclUxx1lY16xedUMX4daCosIBDL3-7)
+
+What you’ll do: → Understand why vision is hard for computers \
+🔹 Learn basic image processing techniques \
+🔹 Build a working image classifier in Python \
+🔹 Win prizes in our Kahoot challenge 🏆
+
+What you DON’T need: Coding experience. Math background. Your own laptop. \
+What you Need: Just your curiosity. \
+🥐☕ Fika was Provided, Prizes were provided to the Winner
+
+---
 
 ## AI Scavenger Hunt
 
-##### :date: Saturday, 30th August
+##### :date: Saturday, 30th August | 2025
 
 ##### :round_pushpin: Lund Cathedral
 
